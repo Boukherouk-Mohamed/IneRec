@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  background: url("inpt.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  transition: 0.4s;
+
+}
+.all{
+
+
+}
+.head{
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+
+}
+
+.main{
+    text-align: center;
+    color: aliceblue;
+}
+
+.main h1{
+    font-size: 70px;
+    font-family: Gabriola;
+}
+.p1{
+    font-size: 30px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #B39CFF;
+    font-family: Agency FB;
+}
+.p2{
+        font-size: 22px;
+        width: 30%;
+        margin-left: auto;
+        margin-right: auto;
+        color: #ffffff;
+        font-family: Allan;
+}
+h1{
+    color: white;
+}
+
+.go{
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(169,23,23,100%);
+}
+.footer{
+    color: white;
+    height: 100px;
+    background-color: rgb(116, 44, 44);
+
+}
+
+
+
+
+
+
+
+.navbar-nav{
+margin-left: auto;
+margin-right: auto;
+background-color: transparent;
+
+}
+
+.cont{
+    margin: auto;
+    width: 60%;
+    height: 200px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: aqua;
+   
+    padding-left: 40px;
+    color: white;
+
+}
+
+
+
+
+
+
+
+
+
+.cont2{
+    margin-top: 50px;
+}
+
+
+.historique{
+    border: 0.5px solid wheat;
+    padding: 10px;
+    width: 55%;
+    text-align: center;
+    height: 400px;
+    background-color: #B39CFF;
+    margin: auto;
+    border-radius: 20px;
+}
+.historique h2{
+    font-size: 20px;
+}
+.historique h3{
+    font-size: 15px;
+}
+
+.reclamation{
+    border: 0.5px solid wheat;
+    width: 60%;
+    height: 400px;
+    margin: auto;
+    border-radius: 20px;
+}
+.msg{
+    margin-top: 20px;
+    height: 50%;
+    width: 90%;
+    background-color: blue;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.rec1{
+    border: 0.5px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.bde{
+    border: 1px solid white;
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    height: 500px;
+
+}
+.bdeRec{
+    width: 80%;
+    height: 130px;
+    border: 0.5px solid wheat;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+
+.btnInsc{
+    width: 150px;
+    padding: 5px;
+    margin-right: 30px;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+.btnInsc:hover{
+    background-color: #ffffff;
+    transform: scale(1.1);
+    color: white;
+}
+.qlq{
+    font-weight: 100;
+    font-family: fantasy;
+    color: #f90808;
+    background-color: brown; 
+   letter-spacing: 3px;
+    font-size: 20px; 
+   
+    font-style: inherit; 
+    border: 3px solid red; 
+    border-radius: 20px; 
+    width: 160px; 
+    height: 50px;
+
+}
+.qlq:hover{
+    transform: scale(1.1);
+}

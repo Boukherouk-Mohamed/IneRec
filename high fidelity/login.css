@@ -1,0 +1,33 @@
+.cont{
+    margin: auto;
+    width: 40%;
+    height: 320px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color:rgb(58, 46, 46,39%);
+    padding-left: 40px;
+    color: white;
+    border:0.5px solid #eae4e4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.head{
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    font-family: Abhaya Libre;
+}
+
+
+input{
+    width: 90%;
+    border-radius: 10px;
+    height: 40px;
+}
+
+.end{
+    text-align: center;
+    color: white;
+
+}
